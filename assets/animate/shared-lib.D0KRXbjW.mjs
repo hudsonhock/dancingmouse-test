@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`53 creatures living inside mathematics. Witness them emerge from your mouse cursor. Coming to Steam 2027.`,favicon:`https://framerusercontent.com/assets/VY27lwoRcjMGDa6bCxm6MzjgeE.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/EH17D58pBMVACQB9asZVMenagJE.png`,title:`DancingMouse: Origin`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.D0KRXbjW.mjs.map
